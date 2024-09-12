@@ -27,6 +27,4 @@ export default function () {
   })
 
 }
-
-
 // running with "k6 run modulo2/7-thresholds.js" 
