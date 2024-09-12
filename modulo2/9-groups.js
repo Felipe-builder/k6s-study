@@ -1,3 +1,7 @@
+/**
+ * Groups são uma forma de organizar scripts
+ */
+
 // 1. Inicialização
 import http from 'k6/http';
 import { check, group } from 'k6';

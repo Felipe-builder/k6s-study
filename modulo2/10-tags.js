@@ -1,3 +1,11 @@
+/**
+ * 1. Request
+ * 2. Checks
+ * 3. Thresholds
+ * 4. Metricas customizadas
+ * 5. Todas as métricas de um teste
+ */
+
 // 1. Inicialização
 import http from 'k6/http';
 import { check, group } from 'k6';

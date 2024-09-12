@@ -1,3 +1,7 @@
+/**
+ * Utilizados como critérios de reprovação ou aprovação
+ */
+
 // 1. Inicialização
 import http from 'k6/http';
 import { check } from 'k6';
