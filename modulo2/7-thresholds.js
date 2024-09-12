@@ -1,7 +1,6 @@
 // 1. Inicialização
 import http from 'k6/http';
 import { check } from 'k6';
-import { Counter, Gauge, Rate, Trend } from 'k6/metrics';
 
 // 2. Configuração
 export const options = {
